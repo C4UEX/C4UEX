@@ -1,4 +1,4 @@
-## Opa sou Cauê Batista, estudande de Analise e Desenvolvimento de Sistemas
+## Opa, sou Cauê Batista, estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, desenvolvimento web e design, estou sempre buscando aprimorar minhas habilidades e aprender novas soluções para criar projetos inovadores.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caue-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
